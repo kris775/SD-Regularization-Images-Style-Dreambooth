@@ -1,1 +1,1 @@
-# SD-Regularization-Images-Style-Dreambooth
+# Stable-Diffusion-Regularization-Images
